@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## Hi 👋 My name is Alex
+## Hi I'm Sandro ✌🏻
 
 Native iOS Developer
 ------------------------
