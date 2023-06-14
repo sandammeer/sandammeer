@@ -21,12 +21,17 @@ Native iOS Developer
 
 * 🌍 Living in Hamburg
 * 🛒 Currently working on the Bonprix Shopping App
+* 👨🏻‍💻 I develop my own Apps in my freetime
+* 🌴 Also availalbe as a freelance iOS Developer, just hit me up!
 
 
 <!--* 🖥️  See my portfolio at [My Personal Homepage](http://alexanderkneis.de) 
 * 🧠  I'm learning Python -->
 
 ### Skills
+
+* 5+ years experience with Swift for iOS and macOS development
+* 3+ years experience with SwiftUI
 
 <p align="left">
 <a href="https://www.swift.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Java" /></a>
